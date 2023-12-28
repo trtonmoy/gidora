@@ -26,7 +26,7 @@
           children: [
             (0, r.jsxs)(l.default, {
               children: [
-                (0, r.jsx)("title", { children: "$NPEPE" }),
+                (0, r.jsx)("title", { children: "Ghidora On Sol" }),
                 (0, r.jsx)("link", { rel: "icon", href: "/favicon.ico" }),
                 (0, r.jsx)("link", {
                   href: "https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin&family=Rampart+One&display=swap",
@@ -77,13 +77,13 @@
                         children: [
                           (0, r.jsx)("a", {
                             target: "_blank",
-                            href: "tglink",
+                            href: "https://t.me/ghidorahsol",
                             className: "p-3 bg-black text-white rounded-full",
                             children: (0, r.jsx)(a.AGi, {}),
                           }),
                           (0, r.jsx)("a", {
                             target: "_blank",
-                            href: "twitterlink",
+                            href: "https://twitter.com/ghidorahsol_",
                             className: "p-3 bg-black text-white rounded-full",
                             children: (0, r.jsx)(a.fWC, {}),
                           }),
