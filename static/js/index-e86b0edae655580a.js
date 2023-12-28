@@ -51,7 +51,19 @@
                       (0, r.jsx)("div", {
                         className: "max-w-[600px] w-full mt-4",
                         children:
-                          "There's a NEW GIDORA in town. We are taking on the likes of $GIDORA to become the top token.",
+                          "There's a NEW GIDORA in town. We are taking on the likes of $GIDORA to become the top token. ",
+                      }),
+                      (0, r.jsx)("div", {
+                        className: "max-w-[600px] w-full mt-4",
+                        children: "Supply : 1 Billion",
+                      }),
+                      (0, r.jsx)("div", {
+                        className: "max-w-[600px] w-full mt-4",
+                        children: "Tax : 0/0",
+                      }),
+                      (0, r.jsx)("div", {
+                        className: "max-w-[600px] w-full mt-4",
+                        children: "LP Burnt",
                       }),
                       (0, r.jsxs)("div", {
                         className: "flex flex-wrap gap-4 items-center mt-4",
